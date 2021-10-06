@@ -1,0 +1,140 @@
+.ui.borderless.topmenu.menu {
+  background-color: #203C44;
+  box-shadow: none;
+  border: none;
+  border-radius: 0px;
+  padding: 35px;
+  font-size: large;
+}
+
+.small.ui.button {
+  background-color: #203C44;
+  color: white;
+  border: 1px solid;
+}
+
+.fitted.right.item {
+  color: white;
+}
+
+.ui.borderless.grid.middlemenu.menu {
+  background-color: #2E7394;
+  box-shadow: none;
+  border: none;
+  margin-top: -15px;
+  padding: 75px;
+  border-radius: 0px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+  font-size: 1.55em;
+}
+
+.ui.borderless.middletwo.menu {
+  background-color: #276685;
+  box-shadow: none;
+  border: none;
+  margin-top: -15px;
+  padding: 50px;
+  border-radius: 0px;
+}
+
+.ui.massive.action.input {
+  width: 50em;
+  height: 75px;
+}
+
+.ui.button {
+  background-color: #203C44;
+  color: white;
+  font-size: 24px;
+  border: 1px solid;
+}
+
+.ui.labeled.input {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.ui.borderless.middlethree.menu {
+  background-color: #1D4E65;
+  box-shadow: none;
+  border: none;
+  margin-top: -15px;
+  padding: 50px;
+  border-radius: 0px;
+}
+
+.ten.wide.column {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom {
+  color: white;
+  font-size: 24px;
+  padding-left: 150px;
+}
+
+.ui.vertical.image {
+  float: left;
+  width: 2%;
+}
+
+.bottom.ui.button {
+  width: 25%;
+  height: 30px;
+  font-size: 12px;
+}
+
+.link.text {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  margin-top: -20px;
+}
+
+.ui.borderless.bottommenu.menu {
+  background-color: #191919;
+  box-shadow: none;
+  border: none;
+  margin-top: -15px;
+  padding: 100px;
+}
+
+.small.text1 {
+  color: white;
+  font-size: 1.75em;
+}
+
+.small.text2 {
+  color: white;
+  font-size: 14px;
+}
+
+.ui.equal.width.grid {
+  background-color: #191919;
+}
+
+.column.one {
+  float: right;
+}
+
+th {
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+.small.images {
+  width: 15px;
+}
+
+.footer-background {
+  background-color: #191919;
+  padding: 150px 0px 50px 0px;
+}
